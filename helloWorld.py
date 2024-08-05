@@ -1,5 +1,7 @@
-message = input("Provide a message to print: ")
+message = input("Provide a birthday message to print: ")
 
 print("====================================")
-print("== Your Message : ", message)
+print("========= Happy Birthday !==========")
+print("==", message)
+print("==                                ==")
 print("====================================")
