@@ -1,2 +1,5 @@
 message = input("Provide a message to print: ")
-print(message)
+
+print("====================================")
+print("== Your Message : ", message)
+print("====================================")
